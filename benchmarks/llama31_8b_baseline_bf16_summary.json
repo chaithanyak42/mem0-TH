@@ -1,0 +1,11 @@
+{
+  "mode": "bf16",
+  "num_prompts_attempted": 100,
+  "num_prompts_successful": 100,
+  "total_latency_s_successful": 251.22100967925508,
+  "total_generated_tokens_successful": 15000,
+  "average_latency_s": 2.512210096792551,
+  "median_latency_s": 2.4886544539476745,
+  "p95_latency_s": 2.737405927182408,
+  "overall_throughput_tok_s": 59.708381950821554
+}

@@ -1,0 +1,9 @@
+{
+  "model": "llama4:17b-scout-16e-instruct-fp16",
+  "timestamp": "2025-05-03T08:45:31.032777",
+  "num_prompts": 100,
+  "avg_latency_s": 45.66179607795086,
+  "median_latency_s": 49.259511129697785,
+  "p95_latency_s": 64.78003845156636,
+  "overall_toks_per_s": 1.1900539327720328
+}

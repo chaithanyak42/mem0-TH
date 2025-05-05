@@ -1,0 +1,7 @@
+{
+  "model": "llama3.1:8b-instruct-q4_K_M",
+  "embedder": "nomic-embed-text",
+  "timestamp": "2025-05-03T12:07:24.463006",
+  "num_queries": 100,
+  "precision_at_5": 0.95
+}

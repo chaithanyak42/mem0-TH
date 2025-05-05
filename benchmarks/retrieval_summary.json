@@ -1,0 +1,7 @@
+{
+  "model": "llama4:17b-scout-16e-instruct-fp16",
+  "embedder": "nomic-embed-text",
+  "timestamp": "2025-05-03T13:31:35.338390",
+  "num_queries": 100,
+  "precision_at_5": 0.95
+}

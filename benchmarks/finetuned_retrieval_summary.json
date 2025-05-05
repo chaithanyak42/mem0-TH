@@ -1,0 +1,9 @@
+{
+  "model": "cosmos98a/mem0-merged-llama3.1-8b-4bit",
+  "embedder": "nomic-embed-text",
+  "timestamp": "2025-05-05T16:28:54.777586",
+  "num_total_queries": 100,
+  "num_processed_queries": 80,
+  "num_hits": 64,
+  "precision_at_5": 0.8
+}

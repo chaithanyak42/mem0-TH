@@ -1,0 +1,9 @@
+{
+  "model": "unsloth/Meta-Llama-3.1-8B+LoRA[cosmos98a/mem0-finetuned-llama3.1-8b-4b]",
+  "timestamp": "2025-05-05T08:21:39.715793",
+  "prompts": 100,
+  "avg_latency_s": 1.299218991957605,
+  "median_latency_s": 1.3714754239772446,
+  "p95_latency_s": 1.409869487589458,
+  "overall_toks_per_s": 46.0276522820037
+}

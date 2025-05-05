@@ -1,0 +1,21 @@
+query,target_memory,target_added_success,target_mem0_id,retrieved_top5_ids,search_error,is_target_in_top5,p_at_5_score
+What is my selected London?,My selected London is Berlin.,False,N/A (Add Failed),[],False,False,0.0
+Where does the monkey live?,The monkey lives in Paris.,False,N/A (Add Failed),[],False,False,0.0
+What item do I need to buy?,I need to buy a watch.,False,N/A (Add Failed),[],False,False,0.0
+Where does the lion live?,The lion lives in London.,False,N/A (Add Failed),[],False,False,0.0
+Where does the cat live?,The cat lives in New York.,False,N/A (Add Failed),[],False,False,0.0
+Where does the cat live?,The cat lives in Tokyo.,False,N/A (Add Failed),[],False,False,0.0
+What item do I need to buy?,I need to buy a car.,False,N/A (Add Failed),[],False,False,0.0
+What item do I need to buy?,I need to buy a guitar.,False,N/A (Add Failed),[],False,False,0.0
+What item do I need to buy?,I need to buy a laptop.,False,N/A (Add Failed),[],False,False,0.0
+Where does the monkey live?,The monkey lives in London.,False,N/A (Add Failed),[],False,False,0.0
+What item do I need to buy?,I need to buy a book.,False,N/A (Add Failed),[],False,False,0.0
+What item do I need to buy?,I need to buy a bicycle.,False,N/A (Add Failed),[],False,False,0.0
+Where does the fish live?,The fish lives in Berlin.,False,N/A (Add Failed),[],False,False,0.0
+What is my selected bicycle?,My selected bicycle is shoes.,False,N/A (Add Failed),[],False,False,0.0
+What is my selected car?,My selected car is backpack.,False,N/A (Add Failed),[],False,False,0.0
+"Which food do I prefer, curry or tacos?",I prefer curry over tacos.,True,26885ee7-ab7f-4a28-b69d-bd3b02d1f7ba,"[""26885ee7-ab7f-4a28-b69d-bd3b02d1f7ba"", ""15f2953f-1bb1-4361-ae73-3f00bd78143e"", ""098e60e2-baae-492d-92fb-673ee934121e"", ""9ed09087-d793-45b8-8211-e2b2138454b8"", ""bc8135cb-00e2-4e77-99c2-4d337bd7735a""]",False,True,1.0
+"Which food do I prefer, burgers or dumplings?",I prefer burgers over dumplings.,True,098e60e2-baae-492d-92fb-673ee934121e,"[""098e60e2-baae-492d-92fb-673ee934121e"", ""15f2953f-1bb1-4361-ae73-3f00bd78143e"", ""bc8135cb-00e2-4e77-99c2-4d337bd7735a"", ""9ed09087-d793-45b8-8211-e2b2138454b8"", ""26885ee7-ab7f-4a28-b69d-bd3b02d1f7ba""]",False,True,1.0
+"Which food do I prefer, burgers or ramen?",I prefer burgers over ramen.,True,15f2953f-1bb1-4361-ae73-3f00bd78143e,"[""15f2953f-1bb1-4361-ae73-3f00bd78143e"", ""098e60e2-baae-492d-92fb-673ee934121e"", ""bc8135cb-00e2-4e77-99c2-4d337bd7735a"", ""9ed09087-d793-45b8-8211-e2b2138454b8"", ""26885ee7-ab7f-4a28-b69d-bd3b02d1f7ba""]",False,True,1.0
+"Which food do I prefer, burgers or pasta?",I prefer burgers over pasta.,True,bc8135cb-00e2-4e77-99c2-4d337bd7735a,"[""bc8135cb-00e2-4e77-99c2-4d337bd7735a"", ""15f2953f-1bb1-4361-ae73-3f00bd78143e"", ""098e60e2-baae-492d-92fb-673ee934121e"", ""9ed09087-d793-45b8-8211-e2b2138454b8"", ""26885ee7-ab7f-4a28-b69d-bd3b02d1f7ba""]",False,True,1.0
+"Which food do I prefer, sushi or pizza?",I prefer sushi over pizza.,True,9ed09087-d793-45b8-8211-e2b2138454b8,"[""9ed09087-d793-45b8-8211-e2b2138454b8"", ""098e60e2-baae-492d-92fb-673ee934121e"", ""15f2953f-1bb1-4361-ae73-3f00bd78143e"", ""bc8135cb-00e2-4e77-99c2-4d337bd7735a"", ""26885ee7-ab7f-4a28-b69d-bd3b02d1f7ba""]",False,True,1.0

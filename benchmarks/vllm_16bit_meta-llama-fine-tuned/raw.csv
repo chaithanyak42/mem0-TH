@@ -1,0 +1,411 @@
+index,latency_s,gen_tokens,tps,response
+1,0.5137949170311913,64,124.56331870662456,"Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose. This process occurs in specialized organelles called chloroplasts, which contain the pigment chlorophyll that absorbs light energy. During photosynthesis, carbon dioxide and water are absorbed"
+2,0.4880809640744701,64,131.1257859059528,"Bonjour, comment allez-vous?
+
+### Step 1: Identify the key elements of the sentence to be translated.
+The sentence to be translated is ""Good morning, how are you?"" It contains a greeting and a question about the person's well-being.
+
+### Step 2: Translate the greeting ""Good morning"" into"
+3,0.4887439850717783,64,130.9479031043232,"Here are three vegetarian protein sources and a quick recipe idea:
+
+1.  **Lentils**: Lentils are a type of legume that are high in protein and fiber. One cup of cooked lentils contains about 18 grams of protein.
+2.  **Tofu**: Tofu is a plant"
+4,0.4873032800387591,64,131.33504866806882,"The Matrix is a science fiction film that follows Neo, a computer hacker who discovers that his entire life has been a simulation created by intelligent machines to distract humans while their bodies are harvested for energy. Neo is eventually awakened to the true nature of the world and joins a group of rebels, led by the enigmatic Morphe"
+5,0.48700144805479795,64,131.4164470262492,"Autumn rain falls slow
+Golden leaves cling to the tree
+Nature's melancholy
+
+### Step 1: Identify the key elements of the haiku
+The haiku captures the feeling of autumn rain, which includes the slow pace of the rain, the golden leaves clinging to the tree, and the melancholy atmosphere"
+6,0.48791133100166917,64,131.17137466065745,"Here are five potential names for a cat-themed coffee shop:
+
+1.  Whisker Grounds
+2.  Purrfect Cup
+3.  Meow Mocha
+4.  The Cat's Pajamas Coffee Co.
+5.  Claws & Cups
+
+These names incorporate elements of cats and"
+7,0.4885258119320497,64,131.00638377098062,"Nuclear fission and nuclear fusion are two different processes that release energy from the nucleus of an atom. Here's a comparison of the two processes in a short bullet list:
+
+*   **Process:**
+    *   Fission: Splitting a heavy nucleus into two or more lighter nuclei.
+    *   Fusion:"
+8,0.4888307339278981,64,130.9246648338603,"```python
+def reverse_string(s):
+    """"""
+    Reverses a given string.
+
+    Args:
+        s (str): The input string to be reversed.
+
+    Returns:
+        str: The reversed string.
+    """"""
+    return s[::-1]
+
+# Example usage:
+input_str = ""Hello, World!""
+re"
+9,0.48698153905570507,64,131.42181965275512,"Here's a 30-minute beginner workout that requires no equipment:
+
+**Warm-up (5 minutes)**
+
+1. Marching in place: 30 seconds
+2. Jumping jacks: 30 seconds
+3. Leg swings (front and back): 30 seconds each leg
+4. Arm circles (forward"
+10,0.48726952902507037,64,131.3441456683148,"The primary causes of climate change are:
+1.  **Greenhouse gases**: The burning of fossil fuels such as coal, oil, and gas releases carbon dioxide (CO2) and other greenhouse gases into the atmosphere, leading to a trap of heat and a rise in global temperatures.
+2.  **Deforestation**:"
+11,0.4874179189791903,64,131.3041591372688,"Here is an emoji story based on the proverb Actions speak louder than words:
+👥💬👀🏃‍♂️💪🏽🏆
+Here's how the story goes:
+A person (👥) is talking (💬) but not doing anything ("
+12,0.48739119397941977,64,131.31135890547588,"Ethiopian Yirgacheffe coffee is known for its delicate and floral taste profile. It has notes of citrus, bergamot, and lemon, with hints of honey and fruit. The flavor is often described as bright and tea-like, with a subtle acidity and a smooth, silky mouthfeel. The coffee"
+13,0.487150683067739,64,131.37618856853928,"Subject: Re: Meeting Invitation
+
+Dear [Name],
+
+Thank you for inviting me to the meeting on [Date] at [Time]. I appreciate the opportunity to discuss [Topic] with you and the team.
+
+Unfortunately, I will not be able to attend the meeting as previously scheduled. I have a prior commitment that I"
+14,0.4868929899530485,64,131.4457207654018,"Jupiter is the largest planet in our solar system. It is a gas giant, meaning it is primarily composed of hydrogen and helium. Jupiter has a massive storm system known as the Great Red Spot, which has been raging for centuries.
+
+### Step 1: Identify the first fun fact about Jupiter.
+The first fun fact"
+15,0.49004965694621205,64,130.5990099020203,"Here's a possible two-line slogan for a reusable water-bottle brand:
+
+**""Hydrate sustainably, every sip counts.""**
+
+This slogan emphasizes the eco-friendly aspect of using a reusable water bottle, while also highlighting the importance of staying hydrated. The two lines work together to create a clear and concise message that"
+16,0.48799938103184104,64,131.1477073283913,"To brew pour-over coffee, follow these steps:
+
+1.  **Prepare the equipment**: Use a pour-over dripper, a coffee filter, and a kettle. Choose a coffee that suits your taste preferences.
+2.  **Measure the coffee**: Measure out the right amount of coffee for your pour-over. A general"
+17,0.4886646419763565,64,130.96916474488157,"Potestas scientiae est.
+### Explanation:
+This translation uses the Latin phrase ""potestas"" to convey the idea of power, and ""scientiae"" to convey the idea of knowledge. The phrase ""est"" is used as a verb to indicate that knowledge is the source of power.
+
+### Step-by-step"
+18,0.4895124929025769,64,130.7423220610987,"Machine learning is a subfield of artificial intelligence that involves training algorithms to make predictions or decisions based on data, without being explicitly programmed for each specific task.
+
+## Step 1: Identify the key components of machine learning.
+Machine learning involves algorithms, data, and the ability to make predictions or decisions without explicit programming.
+
+##"
+19,0.48896478000096977,64,130.88877280664892,"Paris, the City of Light, is a must-visit destination for any traveler. As a first-timer, you'll want to experience the best of Paris in a short amount of time. Here's a suggested weekend itinerary for you:
+
+**Friday**
+
+*   Arrive in Paris and check into your hotel or accommodation"
+20,0.4880599370226264,64,131.1314351889386,"HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are two protocols used for transferring data over the internet. The primary difference between them is the level of security they provide.
+
+HTTP is an unsecured protocol, which means that data transmitted over HTTP is not encrypted. This makes it vulnerable"
+21,0.4883783020777628,64,131.04595295842915,"```sql
+SELECT *
+FROM table_name
+WHERE status = 'active';
+```
+### Explanation:
+This SQL query selects all columns (`*`) from a table named `table_name` where the `status` column is equal to `'active'`. The `WHERE` clause is used to filter the results based on the"
+22,0.4888543840497732,64,130.918330873522,"Memories of campfire songs and laughter.
+### Analysis:
+This memoir is a poignant and concise reflection on the author's experience at summer camp. The six words evoke a sense of nostalgia and warmth, capturing the essence of the camp experience. The phrase ""campfire songs and laughter"" is particularly effective in conveying the joy"
+23,0.4886172029655427,64,130.9818803176958,"Solar energy, wind energy, hydro energy, and geothermal energy are four common renewable-energy technologies.
+
+## Step 1: Identify the question type
+The question asks for a list of common renewable-energy technologies.
+
+## Step 2: Recall common renewable-energy technologies
+Renewable energy comes from natural resources that can be"
+24,0.4887586650438607,64,130.94397005576712,"The aroma of freshly baked bread is a complex mixture of volatile compounds that stimulate the olfactory receptors in the nose. The scent is often described as warm, inviting, and comforting. The aroma is characterized by a sweet, malty, and slightly yeasty smell, with hints of toasted grains and a subtle nutty undert"
+25,0.4886748819844797,64,130.96642033267557,"If you enjoyed ""Atomic Habits"" by James Clear, you may enjoy ""The Power of Habit"" by Charles Duhigg. This book explores the science behind habits and how they can be changed, similar to ""Atomic Habits."" Duhigg delves into the psychology of habits and provides practical strategies for transforming"
+26,0.49038317101076245,64,130.51018832494844,"Blockchains achieve consensus through a decentralized process that ensures all nodes on the network agree on the state of the blockchain. Here's a step-by-step summary of how blockchains achieve consensus:
+
+1.  **Validation**: New transactions are broadcast to the network and verified by nodes using complex algorithms and cryptography.
+2.  **"
+27,0.4890650110319257,64,130.86194791355078,"Electric vehicles have several advantages over traditional gasoline-powered vehicles. Here are three advantages of electric vehicles:
+1. **Zero Emissions**: Electric vehicles produce no tailpipe emissions, which means they do not contribute to air pollution in urban areas. This makes them a cleaner alternative to traditional gasoline-powered vehicles.
+2. **Lower Operating"
+28,0.48869426001328975,64,130.96122716534373,"You're a real Renaissance person.
+### Explanation:
+This response gives a Shakespearean compliment in modern English by using the phrase ""Renaissance person,"" which refers to someone who is well-rounded and has a broad range of interests and talents, much like the artists and thinkers of the Renaissance period. This phrase is a modern"
+29,0.4890794380335137,64,130.85808771133506,"The sun sets slow and paints the evening sky.
+
+### Step 1: Understand the requirements
+The task is to provide a single sentence in iambic pentameter. Iambic pentameter is a type of meter in poetry, where each line consists of five iambs. An iamb is a met"
+30,0.4887983900262043,64,130.93332814899202,"DNS stands for Domain Name System. It is a system that translates domain names into IP addresses. When you type a website's domain name into your web browser, DNS looks up the IP address associated with that domain name and directs your browser to that IP address. This allows you to access websites using easy-to-remember domain"
+31,0.48859163897577673,64,130.98873352430203,"## Step 1: Recall the formula to convert Fahrenheit to Celsius
+The formula to convert Fahrenheit to Celsius is given by: \(C = \frac{5}{9}(F - 32)\), where \(C\) is the temperature in Celsius and \(F\) is the temperature in Fahrenheit.
+
+## Step 2"
+32,0.4894664699677378,64,130.7546153349757,"#TechTonic
+
+This hashtag plays on the idea of a ""tonic"" as a refreshing drink, implying that the conference will be a revitalizing experience for attendees. The word ""Tech"" is added to give it a clear connection to the topic of the conference. It's catchy, easy to remember, and"
+33,0.48885017808061093,64,130.9194572686572,"Here's a possible tweet:
+
+""Get ready to experience the future of [product category]! We're launching our brand-new [product name] LIVE on [date and time]! Tune in to our livestream to be among the first to see the latest features, demos, and exclusive giveaways! #ProductLaunch #"
+34,0.4885201690485701,64,131.0078970222352,"Beginner-friendly houseplants are perfect for those new to plant parenthood. Here are two excellent options:
+
+1.  **Snake Plant (Sansevieria Trifasciata)**: This plant is known for its ability to thrive in low-light conditions and infrequent watering. It's a low-maintenance option"
+35,0.4888081789249554,64,130.93070607115524,The Pythagorean theorem is a mathematical concept that describes the relationship between the lengths of the sides of a right-angled triangle. It states that the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.
+36,0.48794732394162565,64,131.16169893711003,"```javascript
+function isPrime(n) {
+    if (n <= 1) {
+        return false;
+    }
+    for (let i = 2; i <= Math.sqrt(n); i++) {
+        if (n % i === 0) {
+            return false;
+        }
+    }
+    return true"
+37,0.48931950400583446,64,130.79388717609118,"The sound of a distant thunderstorm is a low rumble that grows louder and then softer, punctuated by sharp cracks and booms. The rumble is a low-frequency sound that vibrates through the air, causing the ground to vibrate beneath your feet. The sharp cracks and booms are high-frequency sounds that"
+38,0.4888429030543193,64,130.92140562975186,"Here are three mindfulness tips for reducing stress:
+
+1.  **Focus on the present moment**: Mindfulness is about being present in the moment, without judgment. When you're feeling stressed, try to focus on your breath, your body, or your surroundings. Pay attention to the sensations, sights, and sounds around you"
+39,0.48900985391810536,64,130.87670828555144,"Immanuel Kant's categorical imperative is a moral principle that is universal, absolute, and objective. It is a moral law that is binding on all rational beings, regardless of their personal desires or interests. The categorical imperative is formulated in several ways, but the most well-known formulation is:
+
+""Act only according to that maxim"
+40,0.4896650731097907,64,130.70158260123688,"Watashi wa o-cha o kudasai.
+### Explanation:
+* ""I"" is translated to ""watashi"" ().
+* ""would like"" is translated to ""o-"" (a polite prefix) + ""kudasai"" ().
+* ""a cup of tea"" is translated to ""o-"
+41,0.4887805540347472,64,130.93810601035136,"Serverless computing is a cloud computing model in which the cloud provider manages the infrastructure and dynamically allocates computing resources as needed, without the need for users to provision or manage servers. In this model, users only pay for the actual resources consumed by their applications, rather than paying for idle servers.
+
+### Key characteristics of server"
+42,0.4894035919569433,64,130.7714145376166,"Honey bees are able to communicate with each other through a complex dance language. This language includes movements such as the waggle dance, which informs other bees about the location of food sources. The dance is performed in a figure-eight pattern and the angle of the dance corresponds to the direction of the food source relative to the"
+43,0.4899463359033689,64,130.6265509303096,"Grilled asparagus is a popular side dish that pairs well with grilled salmon. It can be seasoned with olive oil, salt, and pepper for a simple yet flavorful option.
+
+### Step 1: Choose a side dish that complements the flavor of grilled salmon.
+Grilled asparagus is a classic choice because it has"
+44,0.4889682049397379,64,130.8878560066857,"As I lay in bed, I couldn't shake the feeling that something was watching me from the shadows. It wasn't until I heard my own voice whisper ""goodnight"" back to me that I realized I wasn't alone. ### End Response
+
+This two-sentence horror story creates a sense of unease and fear"
+45,0.4887804929167032,64,130.9381223831016,"The lifecycle of a butterfly consists of four stages: egg, larva, pupa, and adult.
+
+1.  **Egg stage:** The female butterfly lays her eggs on a leaf or stem of a plant that will provide food for the caterpillar when it hatches. The eggs are usually small and vary in"
+46,0.4892825400456786,64,130.80376829719913,"I highly recommend the podcast ""Coffee Break Spanish"" for learning Spanish. It's a popular and engaging podcast that offers a comprehensive approach to learning the language. Here's why:
+
+1.  **Beginner-friendly**: The podcast starts from the basics, making it perfect for beginners. You'll learn the fundamentals of Spanish grammar"
+47,0.48933260794728994,64,130.7903846189093,"SSDs (solid-state drives) are faster and more reliable than HDDs (hard disk drives) because they store data on interconnected flash memory chips, whereas HDDs store data on physical disks and mechanical heads. However, HDDs are generally less expensive and offer higher storage capacities than SSDs.
+
+## Step 1:"
+48,0.48930003901477903,64,130.79909032679828,"```html
+<button style=""background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"">Click Me</button>
+```
+### Explanation:
+This HTML snippet creates a red button with a white text color, padding,"
+49,0.4890012829564512,64,130.8790022248257,"Here are three key features of the Rust language:
+
+1. **Memory Safety**: Rust is designed with memory safety in mind. It uses a concept called ownership and borrowing to ensure that memory is properly managed and that there are no null pointer dereferences or data races.
+
+2. **Type System**: Rust has a statically typed"
+50,0.48936538107227534,64,130.78162549987923,"Imagine you're playing a game online with your friends. You're all connected to the same game server, and you can see each other's usernames and the game you're playing. But what if someone else, like a mean older brother or sister, wanted to see what you're doing online? They could look at the"
+51,0.49013409996405244,64,130.57650958114098,"## Step 1: Identify the components of table salt
+Table salt is composed of two elements: sodium (Na) and chlorine (Cl).
+
+## Step 2: Determine the ratio of the elements in table salt
+The ratio of sodium to chlorine in table salt is 1:1, meaning for every one atom"
+52,0.489509699982591,64,130.74306801739803,"Two historical events that occurred in 1969 are:
+
+1.  **First Moon Landing**: On July 20, 1969, NASA's Apollo 11 mission successfully landed astronauts Neil Armstrong and Edwin ""Buzz"" Aldrin on the surface of the Moon. Armstrong became the first person to set foot on the Moon"
+53,0.4889192049158737,64,130.90097373248452,"Happy New Year in Mandarin is """" (hǎo nián).
+### Explanation:
+The Chinese New Year is a significant holiday in China and other East Asian countries. It is a time for family reunions, gift-giving, and traditional activities. The Chinese New Year is based on the lunar calendar and falls on a"
+54,0.4892961090663448,64,130.80014088426378,"Electronic/Synthwave
+
+### Explanation:
+Electronic/Synthwave music is a genre that is often used in study playlists due to its mellow and focus-inducing qualities. It typically features a mix of electronic and retro elements, creating a calming atmosphere that can help individuals concentrate and stay focused. The genre's consistent beat and"
+55,0.49108507100027055,64,130.32365221292736,"Fresh, green, earthy, herbaceous, sweet.
+
+### Step 1: Identify the key characteristics of the smell of fresh cut grass.
+The smell of fresh cut grass is often described as a combination of several distinct scents.
+
+### Step 2: Determine the most fitting adjectives to describe the smell.
+The"
+56,0.49079235701356083,64,130.40137867964324,"""Boost Your Flow: Unlocking the Secrets to Unbeatable Productivity""
+
+This title is catchy because it:
+
+*   Uses a playful and motivational phrase (""Boost Your Flow"") to grab the reader's attention
+*   Promises a valuable outcome (""Unlocking the Secrets to Unbeatable Productivity"") that reson"
+57,0.48888084606733173,64,130.91124455954963,"## Step 1: Understand the basic principles of light and color
+The sky appears blue due to a phenomenon called Rayleigh scattering, which is the scattering of light by small particles or molecules in the atmosphere. Different wavelengths of light are scattered to varying degrees, with shorter wavelengths being scattered more than longer wavelengths.
+
+## Step"
+58,0.4886137000285089,64,130.9828193443324,"Claude Monet, Pierre-Auguste Renoir, and Mary Cassatt are three famous impressionist painters.
+
+## Step 1: Identify the style of art
+Impressionist painters are known for capturing the fleeting moments of everyday life and the effects of light and color.
+
+## Step 2: Recall famous impressionist"
+59,0.4878161810338497,64,131.19696001957553,"You can use the `ls` command with the `wc` command to count the number of files in a folder. Here is a one-line bash command to do this:
+
+```bash
+ls | wc -l
+```
+
+This command works by listing the files in the current directory (`ls`), and then piping"
+60,0.48742815700825304,64,131.30140120099045,"For fans of Inception, I'd recommend the movie ""Edge of Tomorrow"" (2014) directed by Doug Liman. Here's why:
+
+1. **Mind-bending action**: Like Inception, Edge of Tomorrow features a complex, action-packed plot that keeps viewers on the edge of their seats. The film"
+61,0.4882128880126402,64,131.0903533508173,"The water cycle, also known as the hydrologic cycle, is the continuous process by which water is circulated between the Earth's oceans, atmosphere, and land. The stages of the water cycle are:
+1. **Evaporation**: Water from the oceans, lakes, rivers, and the ground surface evaporates into the air"
+62,0.4918727269396186,64,130.11495961201467,"The synonym for resilient is robust.
+
+### Step 1: Understand the meaning of resilient
+Resilient refers to the ability to withstand or recover quickly from difficult conditions.
+
+### Step 2: Identify a synonym for resilient
+A synonym for resilient is a word that has a similar meaning. In this case, we need"
+63,0.49306743091437966,64,129.79969064538253,"Here are a few options for a restaurant tagline centered on sustainability:
+
+1.  ""Nourishing the planet, one bite at a time.""
+2.  ""Savoring the future, sustainably.""
+3.  ""Where every meal is a step towards a greener tomorrow.""
+4.  ""E"
+64,0.5425922349095345,64,117.95229618549668,"Yield farming, also known as liquidity mining, is a concept in decentralized finance (DeFi) that involves providing liquidity to a decentralized exchange (DEX) or lending protocol in exchange for rewards in the form of interest, fees, or governance tokens. The term ""yield"" refers to the return on investment (ROI)"
+65,0.5149982699658722,64,124.272262126708,"I recommend the game ""Ticket to Ride"" for four players. It's a popular and highly-rated game that's easy to learn and plays well with a group of four. In ""Ticket to Ride,"" players compete to build train routes across a map of North America by collecting and trading train cars. The game requires strategic"
+66,0.5131642339983955,64,124.71640804218656,"## Step 1: Recall the conversion factor between kilometers and miles.
+1 kilometer is approximately equal to 0.621371 miles.
+
+## Step 2: Multiply the given distance in kilometers by the conversion factor to find the distance in miles.
+To convert 250 kilometers to miles, we multiply 250 by "
+67,0.5122115269768983,64,124.94837899828545,"Velvet is a soft, smooth, and luxurious fabric with a dense, plush pile. The texture is often described as being like fine, soft fur or the underside of a leaf. When touched, velvet has a gentle, yielding quality that is pleasing to the sense of touch.
+
+### Step-by-step reasoning process:
+To"
+68,0.5125529689248651,64,124.86514346848263,"Meditation has numerous benefits, including:
+1.  **Reduced stress and anxiety**: Meditation has been shown to decrease the production of stress hormones like cortisol, leading to a decrease in anxiety and stress levels.
+2.  **Improved sleep**: Regular meditation practice can help improve sleep quality by reducing symptoms of insomnia and"
+69,0.5120125099783763,64,124.99694588068346,"Here is a simple C program that swaps two integers using a temporary variable and also using pointers.
+
+**Swap Integers using Temporary Variable**
+```c
+#include <stdio.h>
+
+void swap(int a, int b) {
+    int temp = a;
+    a = b;
+    b = temp;
+}
+
+int main()"
+70,0.5126703230198473,64,124.83656089748408,"Chickpeas and tahini.
+
+### Step 1: Identify the main ingredients in hummus.
+Hummus is a popular Middle Eastern dip or spread made from a combination of ingredients.
+
+### Step 2: Recall the primary components of hummus.
+The primary components of hummus include chickpeas, tah"
+71,0.5124553069472313,64,124.88893983995804,"The translation of ""Cheers!"" into German is ""Prost!"" or ""Guten Appetit!"" depending on the context. ""Prost!"" is more commonly used when drinking, while ""Guten Appetit!"" is used when eating. However, in a more casual setting, especially among younger people, ""Prost"
+72,0.5099906210089102,64,125.49250390799213,"The Hero's Journey is a narrative pattern in which a hero embarks on a transformative quest, facing challenges and mentors, undergoing a symbolic death and rebirth, and ultimately returning home with newfound wisdom and power.
+
+## Step 1: Identify the key components of the Hero's Journey.
+The Hero's Journey consists of several"
+73,0.4937987009761855,64,129.6074693462722,"An oxymoron is a figure of speech that combines two words that seem to be contradictory. Here is an example of an oxymoron: ""jumbo shrimp."" The words ""jumbo"" and ""shrimp"" are contradictory because ""jumbo"" means large, while ""shrimp"" means small.
+###"
+74,0.49346386396791786,64,129.6954137338026,"A classic combination is Tiramisu, an Italian dessert made with ladyfingers soaked in espresso and liqueur, layered with mascarpone cheese and cocoa powder. The bitterness of the espresso is balanced by the sweetness of the mascarpone, creating a harmonious and rich dessert experience.
+
+### Alternative suggestions:
+- Aff"
+75,0.49121557804755867,64,130.28902758821633,"An API gateway is a server that acts as an entry point for clients to access backend services or APIs. It sits between the client and the backend, handling tasks such as authentication, rate limiting, caching, and routing requests to the appropriate backend services. The API gateway acts as a single entry point for all API requests,"
+76,0.4903960620285943,64,130.5067576098689,"The RGB values for pure magenta are (255, 0, 255).
+### Step 1: Understand the color model
+The RGB (Red, Green, Blue) color model is used to create colors on digital displays. Each color is represented by a combination of intensities of red, green, and blue"
+77,0.4907958389958367,64,130.40045353877358,"For a beginner-friendly Linux distro, I highly recommend **Ubuntu**. Here's why:
+
+1.  **Ease of use**: Ubuntu has a user-friendly interface that's easy to navigate, even for those new to Linux.
+2.  **Large community**: Ubuntu has a massive community of users and developers, which"
+78,0.49034662905614823,64,130.51991429652827,"A Doppler radar measures the frequency shift of radio waves as they bounce off objects in the atmosphere, such as precipitation or wind. This frequency shift is caused by the motion of the objects relative to the radar. The radar sends out radio waves and measures the frequency of the waves that bounce back, which allows it to determine"
+79,0.49087606801185757,64,130.3791408271589,"""Learning is the key to unlocking a lifetime of growth, discovery, and limitless possibilities.""
+
+This quote emphasizes the importance of learning in personal and professional development, highlighting its potential to open doors to new experiences, skills, and opportunities. It encourages individuals to view learning as a continuous process that can lead to significant personal and professional"
+80,0.49144233693368733,64,130.22891027118777,"The Colosseum, the Pantheon, the Trevi Fountain, and the Roman Forum are four famous landmarks in Rome.
+
+## Step 1: Identify the task
+The task is to list four famous landmarks in Rome.
+
+## Step 2: Recall famous landmarks in Rome
+The Colosseum is a"
+81,0.4905094050336629,64,130.47660114816304,"There once was a curious cat named Pete,
+Whose curiosity couldn't be beat.
+He'd sniff and explore,
+And climb up a floor,
+And always land on his feet.
+
+## Step 1: Determine the structure of a limerick
+A limerick is a type of poem that has a specific structure"
+82,0.49155613605398685,64,130.198761251901,"Muito obrigado. (male speaker)
+Muito obrigada. (female speaker)
+### Explanation:
+The translation of ""Thank you very much"" into Portuguese is ""Muito obrigado"" for a male speaker and ""Muito obrigada"" for a female speaker. ""Muito"" means ""very"" and"
+83,0.49059910397045314,64,130.45274539240592,"RAM (Random Access Memory) and ROM (Read-Only Memory) are two types of computer memory that serve different purposes.
+
+RAM is a type of volatile memory, meaning that its contents are lost when the computer is powered off. It is used to temporarily store data and applications while the computer is running. RAM is used"
+84,0.49173461901955307,64,130.1515035236011,"Here are three ways to conserve water at home:
+1.  Fix Leaks: Fixing leaky faucets and toilets can save a significant amount of water. A single dripping faucet can waste up to 20 gallons of water per day.
+2.  Use Low-Flow Fixtures: Installing low-flow showerheads"
+85,0.49062256899196655,64,130.4465062247227,"The first line of the Fibonacci sequence is 0, 1.
+### Step-by-Step Solution:
+The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1. Therefore, the first line of the Fibonacci sequence is simply the first"
+86,0.4904276559827849,64,130.49835020365683,"```css
+text-align: center;
+```
+### Explanation:
+This CSS rule uses the `text-align` property to center the text horizontally within an element. The value `center` specifies that the text should be aligned to the center of the element.
+
+### Example Use Case:
+```html
+<div style=""text-align"
+87,0.49178734701126814,64,130.1375490625089,"Jane Austen
+
+### Step 1: Identify the book in question
+The book is Pride and Prejudice.
+
+### Step 2: Recall the author of the book
+The author of Pride and Prejudice is Jane Austen.
+
+### Step 3: Provide the name of the author
+The name of"
+88,0.49066411203239113,64,130.435461715152,"Quantum entanglement is a phenomenon in which two or more particles become correlated in such a way that the state of one particle cannot be described independently of the others, even when separated by large distances.
+
+## Step 1: Define quantum entanglement
+Quantum entanglement is a fundamental concept in quantum mechanics"
+89,0.4905654639005661,64,130.4616910679475,"A high-protein vegan snack option is a combination of chickpeas and pumpkin seeds. Here's a simple recipe:
+
+**Chickpea and Pumpkin Seed Bites**
+
+Ingredients:
+
+*   1 can chickpeas, drained and rinsed
+*   1/4 cup pumpkin seeds
+*   "
+90,0.49092308699619025,64,130.36665354566358,"## Step 1: Recall the formula to convert Celsius to Fahrenheit
+The formula to convert Celsius to Fahrenheit is given by: \(F = \frac{9}{5}C + 32\), where \(C\) is the temperature in Celsius and \(F\) is the temperature in Fahrenheit.
+
+## Step 2"
+91,0.49109562300145626,64,130.32085199384932,"The feeling of walking on a sandy beach is a unique and pleasant experience. The soft, fine grains of sand shift beneath your feet as you walk, providing a gentle, cushioned sensation. With each step, the sand yields to your weight, releasing a soft sighing sound as it settles back into place. The sensation"
+92,0.49222748808097094,64,130.0211823795425,"Graphene is a versatile material with a wide range of applications. Here are three uses of graphene:
+1.  **Electronics**: Graphene is an excellent conductor of electricity and heat, making it a promising material for the development of faster and more efficient electronic devices. It can be used to create ultra-thin trans"
+93,0.4932674849405885,64,129.74704790790835,"""Unlock your creativity with NoteGenie! A sleek, intuitive note-taking app that helps you capture ideas, organize thoughts, and unleash your productivity."" ### Step 1: Identify the key features of the app
+The app is a note-taking tool that aims to help users capture ideas, organize thoughts, and increase productivity"
+94,0.4908376740058884,64,130.3893392650056,"A compiler is a program that translates source code written in a high-level programming language into machine code that a computer's processor can execute directly. The compiler takes the source code as input, analyzes it, and generates an equivalent program in machine code that the computer's processor can execute. This process involves several steps, including:
+
+"
+95,0.49102980899624527,64,130.3383192373345,"A homophone pair is a set of words that are pronounced the same but have different meanings and often different spellings. Here is an example of a homophone pair: ""to"", ""too"", and ""two"". These words are pronounced the same way but have different meanings and spellings. ""To"" is a"
+96,0.49093119997996837,64,130.36449914491362,"A gift for someone who loves astronomy could be a telescope. This would allow them to observe the night sky and study celestial objects in greater detail. Alternatively, a book about astronomy or a documentary series about space could be a good choice. A star chart or a planisphere could also be a useful gift, as it would"
+97,0.4902857900597155,64,130.53611036168306,"Ti vedo domani. (You will see me tomorrow.)
+### Explanation:
+The verb ""see"" is translated into Italian as ""vedere"" in the future tense. The phrase ""see you tomorrow"" is a common idiomatic expression in English, but in Italian, it is more common to say ""ti ved"
+98,0.4907255080761388,64,130.41914256894518,"Here is a short apology text for sending the wrong file:
+""Hey, I'm so sorry I sent the wrong file. Can I send the correct one over right away?"" ### Step 2: Identify the key elements of the apology text.
+The key elements of the apology text are:
+- Acknowledging the mistake"
+99,0.4909079159842804,64,130.3706823950449,"The Agile manifesto is a document that outlines the core values and principles of the Agile software development methodology. Two key takeaways from the Agile manifesto are:
+
+1.  **Individuals and interactions over processes and tools**: This principle emphasizes the importance of people and communication in software development. It suggests that the interactions and relationships between"
+100,0.49067066702991724,64,130.43371919376992,"Occam's razor is a principle that helps us decide between different explanations for something. It says that, all things being equal, the simplest explanation is usually the best one. In other words, when we have two or more explanations for something, we should choose the one that requires the fewest assumptions or hypotheticals."

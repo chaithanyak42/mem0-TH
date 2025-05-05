@@ -1,0 +1,9 @@
+{
+  "model": "cosmos98a/mem0-merged-llama3.1-8b-4bit",
+  "timestamp": "2025-05-05T11:52:49.140080",
+  "prompts": 100,
+  "avg_latency_s": 1.3889459608390462,
+  "median_latency_s": 1.3604691380169243,
+  "p95_latency_s": 1.536637865944067,
+  "overall_toks_per_s": 46.07810656747102
+}

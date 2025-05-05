@@ -1,0 +1,496 @@
+index,latency_s,gen_tokens,tps,response_txt
+1,0.45622441777959466,64,140.28183829239686,"Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose (a type of sugar). This occurs when chlorophyll, a green pigment found in plant cells, absorbs sunlight and transfers its energy to other molecules, which are then used to"
+2,0.4292309880256653,64,149.1038666485403,"The translation of ""Good morning, how are you?"" in French is:
+
+""Bonne matinée, comment allez-vous?""
+
+However, a more common and informal way to say this would be:
+
+""Bonjour, comment ça va?""
+
+Note that the formal greeting ""Bonne matinée"" is not as commonly used"
+3,0.4109731721691787,64,155.72792662401366,"Here are three vegetarian protein sources:
+
+1. **Lentils**: 1 cup of cooked lentils contains about 18g of protein.
+2. **Chickpeas**: 1 cup of cooked chickpeas contains about 15g of protein.
+3. **Tofu**: 1/4"
+4,0.45588545175269246,64,140.38614251441072,"Here is a summary of the plot of ""The Matrix"" in two sentences:
+
+In a dystopian future, humanity is unknowingly trapped within a simulated reality called the Matrix, created by intelligent machines to distract humans while their bodies are harvested for energy. A computer hacker named Neo (played by Keanu Reeves) discovers"
+5,0.16994921723380685,16,94.14577048618044,"Softly falls the dew
+Golden leaves surrender slow
+Rain's melancholy"
+6,0.4424051260575652,64,144.66378491209525,"Here are five potential names for a cat-themed coffee shop:
+
+1. **Purrfect Cup**: A playful name that combines the idea of cats (purr) with the idea of a perfect cup of coffee.
+2. **Whisker Grounds**: This name incorporates a cat's distinctive whiskers and pairs it"
+7,0.42437383020296693,64,150.81043043910242,"Here is a brief comparison of nuclear fission and fusion:
+
+**Nuclear Fission:**
+
+* Releases energy by splitting heavy atoms into lighter ones
+* Typically uses uranium or plutonium as fuel
+* Produces radioactive waste, including long-lived isotopes
+* Energy release per reaction is relatively low (about 200"
+8,0.3979828623123467,64,160.81094454205729,"**String Reversal in Python**
+=====================================
+
+Here is a simple function to reverse a string in Python:
+
+```python
+def reverse_string(s):
+    """"""
+    Returns the input string reversed.
+
+    Args:
+        s (str): The input string to be reversed.
+
+    Returns:
+        str: The reversed string"
+9,0.45616325875744224,64,140.3006462518083,"Here's a 30-minute beginner-friendly workout that requires no equipment:
+
+**Warm-up (5 minutes)**
+
+1. Marching in place: 30 seconds
+2. Jumping jacks: 30 seconds
+3. Dynamic stretching:
+	* Leg swings (front and back): 15 seconds each leg
+"
+10,0.46102243615314364,64,138.82187716074694,"The primary causes of climate change can be broadly categorized into two main groups: natural and human-induced factors. Here's a breakdown of both:
+
+**Natural Factors:**
+
+1. **Volcanic eruptions**: Large volcanic eruptions can release massive amounts of sulfur dioxide into the atmosphere, reflecting sunlight and cooling the planet.
+"
+11,0.4592532659880817,64,139.3566572951947,"Here's a possible emoji story:
+
+👥💬😊
+🤔💭😐
+🏃‍♂️💪🌟
+🙅‍♂️💬😒
+
+Translation:
+
+A person is talking (👥💬) and smiling ("
+12,0.45894857915118337,64,139.44917340928865,"The delightful flavor profile of Ethiopian Yirgacheffe!
+
+Ethiopian Yirgacheffe is a renowned coffee known for its delicate and nuanced flavor characteristics. The taste profile typically includes:
+
+1. **Floral notes**: Hints of jasmine, rose, and orange blossoms are common in high-quality Yir"
+13,0.45492204185575247,64,140.68344487975642,"Here's a sample email:
+
+Subject: Re: Meeting Invitation - [Meeting Topic]
+
+Dear [Name],
+
+Thank you for inviting me to meet on [Date and Time] to discuss [Topic]. I appreciate the time you took to consider me for this meeting, and I'm grateful for your interest in my input.
+
+Unfortunately"
+14,0.44776510866358876,64,142.9320837235756,"A gas giant enthusiast! Here are three fun facts about Jupiter:
+
+1. **The Great Red Spot**: Jupiter's most iconic feature is a persistent anticyclonic storm known as the Great Red Spot (GRS). It's been raging for at least 187 years and has winds that can reach up to 435"
+15,0.44673562003299594,64,143.26146635737922,"Here are a few options:
+
+1. ""Hydrate sustainably, every sip.""
+2. ""Drink to the future, one refill at a time.""
+3. ""Pure water, pure conscience.""
+4. ""Refill, reduce, refresh.""
+5. ""Sip smart, stay green.""
+
+Let me know"
+16,0.43170034093782306,64,148.25098321897732,"Here's a step-by-step guide to brewing pour-over coffee:
+
+**Equipment Needed:**
+
+* Pour-over dripper (e.g., Chemex, Hario V60)
+* Coffee filter (paper or metal)
+* Coffee beans
+* Grinder (optional)
+* Scale
+* Kettle
+* Water
+
+**Step"
+17,0.46534101013094187,64,137.53354767075245,"The translation of ""Knowledge is power"" into Latin would be:
+
+""Cognitio potestas est.""
+
+Here's a breakdown of the translation:
+
+* Cognitio comes from the Latin word ""cognoscere,"" which means ""to know.""
+* Potestas comes from the Latin word ""potent"
+18,0.27772435219958425,38,136.82631609017716,"Machine learning is a subfield of artificial intelligence that enables computers to automatically improve their performance on a task without being explicitly programmed, by analyzing and acting on data through algorithms and statistical models."
+19,0.44590738927945495,64,143.52756096600703,"The City of Light! Paris, the capital of France, is a must-visit destination for any traveler. As a first-timer, you'll want to make the most of your time in this beautiful city. Here's a suggested weekend itinerary for you:
+
+**Day 1: Saturday**
+
+1. **Morning:**"
+20,0.4478951580822468,64,142.8905824167175,"HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are two protocols used for transferring data over the internet.
+
+**HTTP:**
+
+HTTP is an insecure protocol that sends data in plain text, making it vulnerable to eavesdropping, tampering, and man-in-the-middle attacks."
+21,0.44469291204586625,64,143.91954147764548,"Here is the SQL query:
+```sql
+SELECT *
+FROM your_table_name
+WHERE status = 'active';
+```
+Replace `your_table_name` with the actual name of your table.
+
+This query will return all columns (`*`) from the specified table where the value in the ""status"" column is exactly ""active"
+22,0.12606166815385222,12,95.19150567922499,"""Laughter, tears, and freedom under stars."""
+23,0.43308064667508006,64,147.77848073182585,"Here are four common renewable-energy technologies:
+
+1. **Solar Power**: Harnesses energy from the sun's rays to generate electricity using photovoltaic (PV) panels or solar thermal systems.
+2. **Wind Power**: Uses wind turbines to convert kinetic energy from the wind into electrical power.
+3. **Hydroelectric"
+24,0.44730327278375626,64,143.07965958241508,"The aroma of freshly baked bread is a truly heavenly scent! It's a warm, inviting, and mouthwatering fragrance that fills the air with an irresistible charm.
+
+Imagine a rich, golden-brown bouquet that wafts up from a just-emerged loaf, carrying the essence of perfectly balanced ingredients. The aroma is both"
+25,0.44782800786197186,64,142.9120083523804,"If you enjoyed ""Atomic Habits"" by James Clear, here are some book suggestions that explore related themes of personal development, habit formation, and behavioral change:
+
+1. **""The Power of Habit"" by Charles Duhigg**: This book explores the science behind habits and how they can be changed. It's a"
+26,0.4519014838151634,64,141.6237881311699,"Blockchains achieve consensus through a distributed system that allows nodes on the network to agree on the state of the blockchain, ensuring that all nodes have the same version of the blockchain and its history. Here's a simplified overview of the process:
+
+**Key Components:**
+
+1. **Nodes**: These are computers connected to the network"
+27,0.441152669955045,64,145.0744931602065,"Here are three advantages of electric vehicles:
+
+1. **Zero Emissions**: Electric vehicles produce no tailpipe emissions, reducing air pollution and greenhouse gas emissions that contribute to climate change.
+2. **Lower Operating Costs**: Electric vehicles are generally cheaper to run than gasoline-powered cars, with lower fuel costs (electricity is often"
+28,0.4307930110953748,62,143.92062638702743,"Here's one:
+
+""Thou art as lovely as a summer's day, with sunshine in thy smile and warmth in thine eyes.""
+
+In modern English, that would be:
+
+""You're absolutely radiant, like a beautiful sunny day. Your smile lights up the room, and your eyes sparkle with kindness."""
+29,0.16154618794098496,18,111.42324204255223,The sun sets slow and paints the evening sky with hues of gold and crimson high.
+30,0.4743253933265805,64,134.92847083549455,"DNS, or Domain Name System, is a critical component of the internet infrastructure that enables computers to communicate with each other using meaningful names instead of IP addresses.
+
+**What is DNS?**
+
+DNS is a distributed database that translates human-readable domain names (e.g., `www.example.com`) into numerical IP addresses (e.g"
+31,0.44296474987640977,64,144.48102251444712,"To convert Fahrenheit to Celsius, we use the formula:
+
+°C = (°F - 32) × 5/9
+
+Plugging in the value of 98°F, we get:
+
+°C = (98 - 32) × 5/9
+= 66 × 5/9
+= "
+32,0.45493067195639014,64,140.68077609446186,"Here are a few ideas:
+
+1. #ByteSizedLearning
+2. #TechNoLogic (a play on ""no logic"" with a nod to the tech industry)
+3. #CodeCrush
+4. #TheFutureIsNow (or at least, that's what we're hoping for)
+5"
+33,0.4537810739129782,64,141.03717338434726,"Here's a draft tweet:
+
+""Get ready to experience the future! Join us LIVE on [Date] at [Time] for the launch of our brand new [Product Name]! Tune in to see exclusive demos, behind-the-scenes insights, and be among the first to get your hands on this game-changing innovation!"
+34,0.44646888319402933,64,143.34705599670306,"Here are two beginner-friendly houseplants that are perfect for those new to plant parenthood:
+
+1. **Snake Plant (Sansevieria Trifasciata)**:
+	* Also known as Mother-in-Law's Tongue, this plant is almost impossible to kill.
+	* It can thrive in low-light"
+35,0.44286018097773194,64,144.5151376190628,"The Pythagorean theorem is a fundamental concept in geometry that describes the relationship between the lengths of the sides of a right-angled triangle. It states:
+
+**a² + b² = c²**
+
+where:
+
+* **a** and **b** are the lengths of the two legs (sides) of the"
+36,0.4475301718339324,64,143.00711779439274,"**Checking if a Number is Prime in JavaScript**
+====================================================
+
+Here's a simple function that checks whether a given number is prime or not:
+
+```javascript
+/**
+ * Checks if a number is prime.
+ *
+ * @param {number} num - The number to check for primality.
+ * @returns {boolean}"
+37,0.47595012560486794,64,134.4678708061369,"The sound of a distant thunderstorm is a unique and evocative experience that can be both calming and thrilling at the same time.
+
+As the storm rumbles in from afar, you might first hear a low rumble or growl, like a gentle hum or vibration in the air. This is often described as a"
+38,0.4423179170116782,64,144.69230736206023,"Here are three mindfulness tips to help reduce stress:
+
+1. **Focus on the present moment**: Mindfulness is about being fully engaged in the present moment, without dwelling on the past or worrying about the future. When you feel stressed, try to bring your attention to your breath, body sensations, or sensory experiences (e"
+39,0.4602313553914428,64,139.0604947930281,"Immanuel Kant's ""categorical imperative"" is a central concept in his moral philosophy, outlined in his book ""Grounding for the Metaphysics of Morals"" (1785). The categorical imperative is a principle that serves as a universal moral law, guiding human behavior and decision-making. Here's a summary:
+
+"
+40,0.109896931797266,12,109.19322135523473,「私はお茶を１杯欲しいです」
+41,0.42781007289886475,64,149.59909561346336,"**Serverless Computing**
+=======================
+
+Serverless computing is a cloud computing model where the provider manages and allocates resources dynamically, eliminating the need for developers to provision or manage servers. This approach allows for greater scalability, flexibility, and cost-effectiveness.
+
+**Key Characteristics:**
+
+1. **No Server Management**: The"
+42,0.4479505061171949,64,142.87292708908342,"A sweet question! Here's a fun fact about honey-bees:
+
+**Honey-bees communicate through dance!**
+
+In fact, they have a complex language system that involves intricate movements and vibrations to convey information about food sources, threats, and even the location of their queen bee. This ""waggle dance"""
+43,0.4224936398677528,64,151.48157027886387,"Here are some popular side dish ideas that go well with grilled salmon:
+
+1. **Roasted Asparagus**: A simple and flavorful option, asparagus pairs nicely with the rich flavor of salmon.
+2. **Quinoa Salad**: Cook quinoa and mix it with chopped veggies like cherry tomatoes, cucumber, and red onion"
+44,0.33637085370719433,47,139.72673161781364,"As I lay in bed, I couldn't shake the feeling that something was watching me from the shadows. It wasn't until I heard my own voice whisper ""goodnight"" back to me that I realized I wasn't alone."
+45,0.4557116939686239,64,140.43967018411965,"Here is the lifecycle of a butterfly:
+
+**I. Egg Stage**
+
+* Female butterflies lay eggs on leaves or stems of plants that will provide food for the caterpillar when it hatches.
+* The number of eggs laid can vary from 1 to several hundred, depending on the species.
+* Eggs are usually small,"
+46,0.4623215817846358,64,138.43178108395824,"Here are some popular and highly-recommended podcasts for learning Spanish:
+
+1. **Coffee Break Spanish**: A relaxed and entertaining podcast that covers various topics, from everyday conversations to more complex grammar rules.
+2. **Spanish Obsessed**: A comprehensive podcast that covers all levels of Spanish, from beginner to advanced. It includes lessons"
+47,0.42132342187687755,64,151.9023075311075,"Solid-State Drives (SSDs) offer faster read and write speeds, lower latency, and higher reliability compared to traditional Hard Disk Drives (HDDs), but are typically more expensive per gigabyte of storage. In contrast, HDDs provide larger storage capacities at a lower cost, making them a more affordable option"
+48,0.4552007089368999,64,140.5973205741903,"**Red Button HTML Snippet**
+=====================================
+
+Here is a simple HTML snippet to create a red button:
+```html
+<button style=""background-color: #FF0000; color: #FFFFFF; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer"
+49,0.4535743771120906,64,141.10144494379995,"Here are three key features of the Rust language:
+
+1. **Ownership and Borrowing System**: Rust's ownership system ensures memory safety by enforcing rules about how data is accessed and modified. This includes concepts like ownership, borrowing, and lifetimes, which help prevent common errors like null pointer dereferences or use-after-free bugs"
+50,0.4588692788966,64,139.4732725491992,"Imagine you're at school, and you want to send a secret message to your best friend who's sitting across the room. You don't want anyone else to see it, like the teacher or another kid.
+
+A VPN (Virtual Private Network) is like a special kind of invisible tunnel that helps keep your online messages private"
+51,0.1450722236186266,17,117.18301116477323,"The chemical formula for table salt is NaCl, which stands for sodium chloride."
+52,0.4365023788996041,64,146.6200485810412,"Here are two significant historical events that occurred in 1969:
+
+1. **First Moon Landing**: On July 20, 1969, NASA's Apollo 11 mission successfully landed astronauts Neil Armstrong and Edwin ""Buzz"" Aldrin on the surface of the Moon. Armstrong became the first person to set foot on the"
+53,0.1882831510156393,27,143.40104175204348,"The translation of ""Happy New Year"" in Mandarin (Pinyin) is:
+
+Xīn Nián Kuài Lè!"
+54,0.46859608590602875,64,136.57817878750788,"Here are some popular music genres that can help you focus and stay productive while studying:
+
+1. **Instrumental Film Scores**: Composers like Hans Zimmer, Thomas Newman, and John Williams create epic soundtracks that evoke feelings of concentration and motivation.
+2. **Lo-Fi Hip Hop/Jazz**: Artists like Jins"
+55,0.11655285116285086,10,85.79798692378382,"Green, earthy, and slightly sweet."
+56,0.43576576840132475,64,146.86789243403416,"Here are some ideas for a catchy title for a blog on productivity:
+
+1. **""Productivity Pulse"":** A play on the idea of staying in sync with your goals and tasks.
+2. **""Get It Done!"":** A straightforward, motivational title that encourages readers to take action.
+3. **"""
+57,0.46247872104868293,64,138.38474525893488,"The sky appears blue because of a phenomenon called Rayleigh scattering, named after the British physicist Lord Rayleigh, who first described it in the late 19th century.
+
+Here's what happens:
+
+1. **Sunlight enters Earth's atmosphere**: When sunlight enters our atmosphere, it consists of a broad spectrum of colors,"
+58,0.4032495259307325,59,146.31139333350296,"Here are three famous Impressionist painters:
+
+1. Claude Monet (1840-1926)
+2. Pierre-Auguste Renoir (1841-1919)
+3. Mary Cassatt (1844-1926) 
+
+Let me know if you'd like more information!"
+59,0.45072123734280467,64,141.99464036198404,"You can use the following one-line bash command to count files in a folder:
+
+```bash
+ls | wc -l
+```
+
+This command works as follows:
+
+- `ls` lists all the items (files and folders) in the current directory.
+- `wc -l` counts the number of lines output by"
+60,0.46481212601065636,64,137.69003952046793,"A fan of ""Inception""! You likely enjoy complex, thought-provoking sci-fi action movies with mind-bending plots. Here's a movie suggestion that might interest you:
+
+**Movie:** ""Interstellar"" (2014) directed by Christopher Nolan
+
+**Why it's a good match:**
+
+1."
+61,0.4603781127370894,64,139.01616568932943,"Here are the main stages of the water cycle:
+
+**I. Evaporation**
+
+* Water from oceans, lakes, rivers, and the ground surface is heated by the sun's energy.
+* The water molecules gain energy and turn into water vapor (gas).
+* This process occurs at the surface of the Earth.
+
+**II"
+62,0.13821865804493427,14,101.28878545072158,"A synonym for ""resilient"" is ""robust""."
+63,0.4400709909386933,64,145.431081161439,"Here are some draft taglines for a restaurant focused on sustainability:
+
+1. **""Nourishing the Future, One Bite at a Time.""**
+2. **""Savoring the Earth, Sustainably Served.""**
+3. **""Rooted in Tradition, Growing with Tomorrow.""** (emphas"
+64,0.417570433113724,64,153.26755661977103,"Yield farming is a popular concept in Decentralized Finance (DeFi) that has gained significant attention in recent times. Here's a breakdown of what it means:
+
+**What is Yield Farming?**
+
+Yield farming, also known as liquidity mining or yield harvesting, is a strategy used by DeFi users to"
+65,0.4383489787578583,64,146.00239330169234,"Here are some popular and engaging board games that are suitable for 4 players:
+
+1. **Ticket to Ride** (30-60 minutes): A train-themed game where players compete to build railroad routes across a map of North America. Easy to learn, but with enough strategy to keep it interesting.
+2. **Cod"
+66,0.2650571586564183,37,139.5925323713344,"To convert kilometers to miles, we multiply the number of kilometers by 0.621371.
+
+So,
+
+250 km × 0.621371 = 155.35425 miles"
+67,0.4436464528553188,64,144.25901433020488,"The luxurious texture of velvet!
+
+Velvet has a distinctive, soft, and smooth texture that is often described as:
+
+* **Plush**: Velvet has a deep pile or nap (the length of the fibers) that gives it a plush, velvety feel.
+* **Soft**: The fibers are typically made from natural"
+68,0.4456178918480873,64,143.62080421541472,"Here are three benefits of meditation:
+
+1. **Reduces Stress and Anxiety**: Meditation has been shown to decrease the production of stress hormones like cortisol, leading to a sense of calm and relaxation. Regular meditation practice can also help reduce anxiety and depression.
+2. **Improves Sleep**: Meditation can help regulate sleep patterns and"
+69,0.45233115879818797,64,141.48925793669287,"**Swapping Two Integers in C**
+=====================================
+
+Here is a simple and efficient way to swap two integers using the XOR operator.
+
+```c
+#include <stdio.h>
+
+void swap(int *a, int *b) {
+    // Using XOR operator for swapping
+    *a = *a ^ *b"
+70,0.27560766506940126,38,137.8771522571085,"The two main ingredients in traditional hummus are:
+
+1. Chickpeas (also known as garbanzo beans)
+2. Tahini (a paste made from ground sesame seeds)"
+71,0.07761044800281525,5,64.42431565165852,"""Prost!"""
+72,0.3604032648727298,50,138.73348238855894,"The Hero's Journey is a storytelling pattern that follows a hero who leaves their ordinary world, embarks on a transformative quest, faces challenges and trials, and ultimately returns home changed by their experiences, having achieved a new level of maturity or understanding."
+73,0.4330447372049093,64,147.79073500139617,"A classic example of an oxymoron is:
+
+""jumbo shrimp""
+
+This phrase combines two words that are contradictory: ""jumbo"" implies something large, while ""shrimp"" refers to a small type of seafood. The combination of these two words creates a humorous and unexpected juxtaposition, which is the essence of"
+74,0.4519489938393235,64,141.60890027947096,"Here are some classic and modern dessert suggestions that pair perfectly with a shot of espresso:
+
+1. **Tiramisu**: A traditional Italian dessert made with ladyfingers soaked in coffee liqueur, mascarpone cheese, and cocoa powder.
+2. **Panna Cotta**: An Italian cream dessert flavored with vanilla or"
+75,0.4707518219947815,64,135.95273987215597,"An API Gateway is a critical component of modern microservices architecture, and it plays a vital role in managing and securing APIs (Application Programming Interfaces). Here's what it does:
+
+**Primary Functions:**
+
+1. **API Routing**: An API Gateway acts as a single entry point for incoming requests from clients (e.g.,"
+76,0.21853473596274853,24,109.822357961853,"The RGB values for pure magenta are:
+
+R: 255
+G: 0
+B: 255"
+77,0.4580084187909961,64,139.73542270017802,"For a beginner-friendly Linux distribution, I recommend:
+
+**Ubuntu**
+
+Here's why:
+
+1. **Easy to install**: Ubuntu has a user-friendly installation process that guides you through the setup.
+2. **Familiar interface**: Ubuntu uses the GNOME desktop environment, which is similar to Windows and macOS, making it easy for"
+78,0.4191827950999141,64,152.67802197069017,"A Doppler radar is a type of radar system that uses the Doppler effect to measure the velocity of particles or objects in the atmosphere, such as precipitation (rain, snow, hail), wind, and other atmospheric phenomena.
+
+The Doppler effect is a phenomenon where the frequency of a wave changes when its source is moving"
+79,0.19898332562297583,24,120.6131213500475,"""Learning is the spark that ignites the flame of possibility, illuminating the path to growth and limitless potential."""
+80,0.4559480012394488,64,140.36688356133251,"Here are four famous landmarks in Rome:
+
+1. The Colosseum (Il Colosseo) - a massive amphitheater built in the 1st century AD, one of the most iconic symbols of Rome.
+2. The Pantheon (Il Pantheon) - a magnificently preserved ancient temple dedicated"
+81,0.36770308716222644,51,138.6988626981513,"Here is a limerick about a curious cat:
+
+There once was a cat, curious and bright,
+Whose explorations were always in sight.
+She'd sniff out with care,
+And pounce without flair,
+And discover new things with delight."
+82,0.20780017133802176,24,115.49557368246816,"Muito obrigado! (Mas se você quiser ser mais formal, pode usar: Obrigado muito!)"
+83,0.4339874470606446,64,147.46970317566985,"RAM (Random Access Memory) and ROM (Read-Only Memory) are two types of computer memory that serve different purposes.
+
+**RAM:**
+
+* **Temporary storage**: RAM is a volatile type of memory, meaning its contents are lost when the power is turned off.
+* **Accessible randomly**: You can access any location"
+84,0.46122710406780243,64,138.76027543817486,"Here are three simple and effective ways to conserve water at home:
+
+1. **Fix Leaks**: A single dripping faucet can waste up to 20 gallons of water per day! Check your faucets, toilets, and pipes for any leaks or drips, and fix them promptly. You can also install low-flow aer"
+85,0.32050876412540674,37,115.44146101890325,"The first two numbers in the Fibonacci sequence are:
+
+0, 1
+
+These are the starting points for the sequence, where each subsequent number is the sum of the previous two."
+86,0.45403209095820785,64,140.9591993044628,"Here is a simple CSS rule to center text:
+
+```css
+.text-centered {
+  text-align: center;
+}
+```
+
+You can apply this class to any HTML element that contains the text you want to center, like so:
+
+```html
+<p class=""text-centered"">This text will be centered.</p>
+``"
+87,0.17137503204867244,16,93.36249165780357,"Jane Austen is the author of ""Pride and Prejudice""."
+88,0.338089884724468,49,144.93187230352476,"Quantum entanglement is a phenomenon where two or more particles become connected in such a way that their properties, such as spin or energy, are correlated and can be instantaneously affected by each other, regardless of the distance between them."
+89,0.47425254387781024,64,134.94919706005712,"Here are some high-protein vegan snack options:
+
+1.  **Chia Seed Pudding**: Mix chia seeds with plant-based milk, let it sit for a few minutes to thicken, and top with fruit or nuts. (15g protein per serving)
+2.  **Hemp Seeds**: Rich in"
+90,0.4867790099233389,64,131.47649897656666,"To convert Celsius to Fahrenheit, we use the formula:
+
+°F = (°C × 9/5) + 32
+
+Plugging in 45°C, we get:
+
+°F = (45 × 9/5) + 32
+= 113 + 32
+= 145°F
+
+So "
+91,0.43569817766547203,64,146.89067634599803,"Walking on a sandy beach is a sensory experience like no other. The sensation is both calming and invigorating at the same time.
+
+As you step onto the sand, your feet sink into its softness, releasing any tension in your body. The grains of sand shift beneath your weight, creating a gentle give-and-t"
+92,0.48215768998488784,64,132.7366571753858,"Here are three uses of graphene:
+
+1. **Electronics and Semiconductors**: Graphene's exceptional electrical conductivity, high carrier mobility, and thermal conductivity make it an ideal material for use in electronic devices such as transistors, diodes, and integrated circuits. It is being researched for potential applications in next"
+93,0.23156460793688893,28,120.91657809655945,"""NotePal: Organize your thoughts with ease. Sync across devices, tag and search notes, and never lose a thought again."""
+94,0.49867695197463036,64,128.33959890581815,"A compiler is a type of computer program that translates source code written in a programming language into machine code that can be executed directly by the computer's processor.
+
+Here's a step-by-step explanation of what a compiler does:
+
+1. **Source Code Input**: The compiler takes in source code, which is written in a high"
+95,0.47973406594246626,64,133.40724485401756,"A homophone pair is a set of words that are pronounced the same but have different meanings and often different spellings.
+
+Here's an example:
+
+* ""To"", ""Too"", and ""Two""
+
+These three words are homophones because they are pronounced the same way (/tuː/), but they have different"
+96,0.4669639430940151,64,137.05554989095745,"What a stellar idea! Here are some gift suggestions for an astronomy enthusiast:
+
+1. **Telescope**: A telescope is the ultimate gift for any astronomy lover. You can choose from various types, such as:
+	* Reflector telescopes (e.g., Celestron NexStar 8SE)
+	* Ref"
+97,0.1705075609497726,21,123.16169372797546,"La traduzione di ""See you tomorrow"" in italiano è: ""Ci vediamo domani""."
+98,0.36504822596907616,54,147.92566066209133,"Here is a short apology text:
+
+""Hey, I'm so sorry about sending the wrong file. That was my mistake and I'll make sure to double check it next time. Can you please let me know if there's anything else I can do to help?"""
+99,0.43565273890271783,64,146.90599710493575,"The Agile Manifesto is a document that outlines four core values and 12 principles of the Agile software development methodology. Here are two key takeaways:
+
+1. **Individuals and Interactions over Processes and Tools**: This value emphasizes the importance of people and communication in the software development process. It prioritizes collaboration, teamwork"
+100,0.4487182777374983,64,142.62846684716556,"A simple yet powerful concept!
+
+""Occam's Razor"" is a philosophical principle that helps you make decisions and solve problems by choosing the simplest explanation or solution.
+
+Here's what it means:
+
+**The basic idea:** When faced with two or more possible explanations for something, choose the one that requires the fewest assumptions or"

@@ -1,0 +1,9 @@
+{
+  "model": "llama3.1_8b-instruct-finetuned-q4_K_M",
+  "timestamp": "2025-05-05T09:08:12.765425",
+  "num_prompts": 100,
+  "avg_latency_s": 0.517782715104986,
+  "median_latency_s": 0.5320915784686804,
+  "p95_latency_s": 0.617245454742806,
+  "overall_toks_per_s": 116.70918753583184
+}

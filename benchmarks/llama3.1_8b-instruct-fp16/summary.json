@@ -1,0 +1,9 @@
+{
+  "model": "llama3.1:8b-instruct-fp16",
+  "timestamp": "2025-05-03T08:48:46.068786",
+  "num_prompts": 100,
+  "avg_latency_s": 0.5378506581531838,
+  "median_latency_s": 0.594553109491244,
+  "p95_latency_s": 0.6479551961645484,
+  "overall_toks_per_s": 103.80204830780222
+}

@@ -1,0 +1,9 @@
+{
+  "mode": "bf16",
+  "add_infer_mode": false,
+  "num_memories_attempted": 100,
+  "num_memories_added": 92,
+  "num_queries_attempted": 100,
+  "num_queries_evaluated_for_p_at_5": 0,
+  "average_precision_at_5": 0.0
+}

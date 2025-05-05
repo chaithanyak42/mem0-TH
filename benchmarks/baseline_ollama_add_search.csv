@@ -1,0 +1,4 @@
+llama4:17b-scout-16e-instruct-fp16,True,3,"['Lives in Hyderabad', 'Allergic to peanuts', 'Favourite colour is blue']",2025-05-03T06:41:41.122252
+llama3.1:8b-instruct-fp16,True,3,"['Lives in Hyderabad', 'Allergic to peanuts', 'Favourite colour is blue']",2025-05-03T06:41:59.425159
+llama4:17b-scout-16e-instruct-q4_K_M,True,3,"['Lives in Hyderabad', 'Allergic to peanuts', 'Favourite colour is blue']",2025-05-03T06:42:17.887638
+llama3.1:8b-instruct-q4_K_M,True,3,"['Lives in Hyderabad', 'Allergic to peanuts', 'Favourite colour is blue']",2025-05-03T06:42:37.064867

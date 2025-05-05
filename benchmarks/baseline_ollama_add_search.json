@@ -1,0 +1,46 @@
+[
+  {
+    "model": "llama4:17b-scout-16e-instruct-fp16",
+    "pass": true,
+    "num_hits": 3,
+    "hits": [
+      "Lives in Hyderabad",
+      "Allergic to peanuts",
+      "Favourite colour is blue"
+    ],
+    "timestamp": "2025-05-03T06:41:41.122252"
+  },
+  {
+    "model": "llama3.1:8b-instruct-fp16",
+    "pass": true,
+    "num_hits": 3,
+    "hits": [
+      "Lives in Hyderabad",
+      "Allergic to peanuts",
+      "Favourite colour is blue"
+    ],
+    "timestamp": "2025-05-03T06:41:59.425159"
+  },
+  {
+    "model": "llama4:17b-scout-16e-instruct-q4_K_M",
+    "pass": true,
+    "num_hits": 3,
+    "hits": [
+      "Lives in Hyderabad",
+      "Allergic to peanuts",
+      "Favourite colour is blue"
+    ],
+    "timestamp": "2025-05-03T06:42:17.887638"
+  },
+  {
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "pass": true,
+    "num_hits": 3,
+    "hits": [
+      "Lives in Hyderabad",
+      "Allergic to peanuts",
+      "Favourite colour is blue"
+    ],
+    "timestamp": "2025-05-03T06:42:37.064867"
+  }
+]

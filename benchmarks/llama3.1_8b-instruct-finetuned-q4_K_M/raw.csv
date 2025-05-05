@@ -1,0 +1,343 @@
+index,latency_s,gen_tokens,tps,response_txt
+1,0.5515065910294652,64,116.04575727832179," What is the chemical equation for photosynthesis? How does it relate to cellular respiration?
+Photosynthesis is a process that converts light energy into chemical energy, which can be stored as glucose and other organic compounds. The overall reaction of photosynthesis is 6CO2 + 6H2O → C6H12"
+2,0.5541839690413326,64,115.48511609008072," Then translate it back to English.
+I'm going to use Google Translate for this one. I'll start with the original sentence and then translate it back to English.
+""Bonjour, comment allez-vous?"" (French) translates as ""Hello, how are you?""
+And when translated back to English, ""Hello, how"
+3,0.5424205899471417,64,117.9896213125625," 1) Beans, lentils, tofu, tempeh, seitan, nuts, seeds, nutritional yeast, quinoa, amaranth, buckwheat, millet, oats, barley, rye, spelt, wheat berries, bulgur, couscous, rice, corn, potatoes,"
+4,0.5747450679773465,64,111.35371761471566," (Hint: Think about what it's really about.)
+What is the main theme of ""The Matrix""? (Hint: Think about why the movie was made.)
+What is the basic premise of ""The Matrix""? (Hint: Think about the world that the characters live in.)
+Who is Neo, and what role does he"
+5,0.5456809650640935,64,117.28464816888531," Use alliteration, assonance or consonance to add texture and rhythm.
+Autumn Rain Haiku
+The leaves fall gently,
+Like soft feathers from the sky,
+As the rain falls softly.
+The air is crisp and cool,
+And the earth smells fresh and new,
+After the summer heat.
+The birds are quiet"
+6,0.41871751798316836,44,105.08277803119934," Write each name on its own line.
+1. Meowtropolis
+2. Purrfect Brew
+3. Kitty Koffee
+4. Cat-a-Palooza
+5. Feline Frappe"
+7,0.5536040849983692,64,115.60608336224348," Include the following information: 1) What type of reaction is it? 2) How does it occur? 3) What are the products?
+Nuclear Fission:
+What type of reaction is it? Nuclear fission
+How does it occur? A heavy nucleus splits into two smaller nuclei.
+What are the"
+8,0.49793398997280747,64,128.53109305411164," The input is a string, and the output is the reversed version of the string.
+
+### Solution 1: Using Slicing
+```python 
+def reverse_string(s):
+    return s[::-1]
+```
+Explanation:
+The slicing syntax in Python allows you to specify a range of indices for an object. In this case"
+9,0.5538654659176245,64,115.55152638730975," It should include exercises for the whole body and be easy to follow.
+A 30-minute beginner workout with no equipment is an excellent way to get started on your fitness journey. This type of workout can help you build strength, improve flexibility, and increase endurance without needing any special equipment or a gym membership. In this article"
+10,0.5667217191075906,64,112.93020514685757," What can we do to mitigate it?
+Climate change is a complex issue that requires an understanding of its various causes and potential solutions. In this article, we will explore the primary causes of climate change and discuss some ways in which we can work towards mitigating its effects.
+The primary cause of climate change is the burning of"
+11,0.5422360949451104,64,118.0297671007656," The first step is to choose a character for your story, then select an action and a reaction. Finally, add some dialogue to complete the story.
+Choose a Character
+Select an Action
+Pick a Reaction
+Add Dialogue
+Complete the Story
+The Emoji Story Generator is a fun way to create stories using emojis. Simply"
+12,0.6174634180497378,64,103.64986512422779," What are some common flavor notes found in this type of coffee?
+Ethiopian Yirgacheffe coffee is known for its bright, fruity, and floral flavors. Common flavor notes include lemon, grapefruit, jasmine, bergamot, and honey.
+What is the difference between a single origin coffee and a blend"
+13,0.4961577800568193,64,128.99122531681516," Use the following template to draft your response.
+Subject: Response to Meeting Invitation
+Dear [Name of Sender],
+Thank you for inviting me to attend the meeting on [Date]. I am sorry, but due to prior commitments, I will not be able to join the meeting at this time. Please let me know if there"
+14,0.5245346230221912,64,122.01291810110385," I’ll give you a hint: it’s the largest planet in our solar system.
+Jupiter is the fifth planet from the Sun and the largest planet in the Solar System. It is a gas giant with the most massive planetary magnetosphere, 2,500 times the power of Earth’s magnetic field, and has the"
+15,0.5095697629731148,64,125.5961492428205," The first line should be the name of the brand, and the second line should describe what it does.
+The brand is called “HydroBuddy” and it provides you with clean drinking water wherever you go.
+The brand is called “HydroBuddy” and it keeps you hydrated on the go.
+The brand"
+16,0.5706179670523852,64,112.15910415615168," What is a French press? How does it work?
+What are the benefits of using a French press over other brewing methods? What are the drawbacks? What are the differences between a drip machine and an espresso machine? What is the difference between a single origin and blend? What is the difference between Arabica and Robusta"
+17,0.5580023360671476,64,114.694860331729," Knowledge is Power. The phrase “knowledge is power” has been around for centuries, and it’s still relevant today. It means that the more knowledge you have about something, the more powerful you are in that area of your life. This can be applied to many different areas, from personal development to business success. In"
+18,0.5102524970425293,64,125.42809760059956," What is the difference between supervised and unsupervised learning? How do you know which type to use?
+Machine Learning (ML) is a subfield of artificial intelligence that focuses on developing computer algorithms that can learn from data, identify patterns, and make predictions or decisions without being explicitly programmed.
+Supervised learning involves using labeled"
+19,0.6262470460496843,64,102.19609082982," What are the must‑see sights and attractions? Where should I stay?
+Paris is an amazing city, but it’s also huge! It can be overwhelming to try to plan your trip if you’ve never been before. Here’s a suggested 3-day itinerary that will help you make the most of your time in Paris"
+20,0.582003264920786,64,109.96501885382166," What is a certificate authority? How does it work?
+HTTP stands for Hypertext Transfer Protocol, which is used to transfer data over the internet. It is a protocol that defines how messages are formatted and transmitted, and what actions web servers and browsers should take in response to those messages.
+HTTPS stands for Hypertext Transfer Protocol"
+21,0.5228317669825628,64,122.4103125358381," The table name is ""customers"".
+
+Solution:Here is the SQL query that will select all rows from the `customers` table where the value of the `status` column is equal to 'active':
+
+    SELECT * FROM customers WHERE status='active';
+
+This query uses the `WHERE` clause to filter out any rows whose"
+22,0.5839397989911959,64,109.6003391283918," It can be funny, sad, or nostalgic. The only rule is that it must be exactly six words long.
+My favorite part of the day was when we got to go swimming in the lake. I loved jumping off the dock and splashing around with my friends. We would spend hours playing games like Marco Polo and"
+23,0.5529176719719544,64,115.74960115083148," Explain how each works.
+A. Wind turbines, solar panels, hydroelectric dams, and geothermal power plants
+B. Solar cells, windmills, hydroelectric dams, and nuclear reactors
+C. Hydroelectric dams, windmills, solar cells, and nuclear reactors
+D. Windmills, solar"
+24,0.6299965489888564,64,101.58785806480991," What is the source of that smell? The answer lies in a chemical reaction called Maillard browning, which occurs when sugars and amino acids react to form new compounds with distinctive aromas. This process is responsible for the delicious smells that fill your kitchen as you bake cookies or roast a turkey.
+Maillard browning is"
+25,0.5810571779729798,64,110.14406572390043," I'm looking for a book that will help me develop good habits and break bad ones.
+""Atomic Habits"" by James Clear is an excellent book on the science of habit formation. If you're looking for another book with a similar focus, here are some suggestions:
+  1. The Power of Habit: Why"
+26,0.5398007520707324,64,118.56226534418353," Explain why it is important for a blockchain to reach consensus.
+A blockchain is a distributed ledger that allows multiple parties to maintain and update the same data in a secure, transparent, and tamper-proof manner. It achieves this by using a decentralized network of nodes (computers) that validate and record transactions on the blockchain."
+27,0.5567819109419361,64,114.94626305608234," 1) Electric cars are more efficient than gasoline-powered cars. 2) They produce zero emissions, which is good for the environment. 3) They’re cheaper to operate and maintain.
+What are the benefits of using an electric car?
+Electric cars have several benefits over traditional petrol or diesel powered cars. These include"
+28,0.5887728480156511,64,108.70066480765892," What is the difference between a compliment and an insult? How do you give a compliment to someone?
+A: A compliment is a statement that praises or admires something about another person, while an insult is a statement that criticizes or belittles something about another person.
+To give a Shakespearean compliment in modern English"
+29,0.5816781839821488,64,110.02647471125393," The sentence must be grammatically correct and make sense.
+The sentence should be written in iambic pentameter, which is a poetic meter that consists of five iambs per line. An iamb is a metrical foot consisting of an unstressed syllable followed by a stressed syllable (e.g., """
+30,0.5519929309375584,64,115.94351378974397," What is the difference between a primary and secondary DNS server?
+DNS stands for Domain Name System, which is responsible for translating domain names into IP addresses that computers can understand. It acts as a phonebook of the internet, allowing users to access websites using easy-to-remember domain names instead of complex numerical IP addresses.
+A"
+31,0.16171649703755975,10,61.83661026046979, How many degrees Celsius in 98 Fahrenheit?
+32,0.6112981770420447,64,104.69522469326475," The conference is called “TechCon 2019” and the theme of this year’s event is “The Future of Tech”. The conference will be held in San Francisco, California.
+#TechConFuture
+#TechConSF19
+#TechConFutureSF
+#TechConFutureNow
+#TechConFuture"
+33,0.6503129859920591,64,98.4141503838607," Use the following information to complete the request.
+
+### Instruction:
+Draft a tweet announcing a product-launch livestream.
+
+### Request:
+The company is launching its new product, the ""Smart Home Assistant,"" and they will be hosting a live stream on their social media platforms at 8 PM EST tonight. The link for the live"
+34,0.4582308360841125,62,135.30298512826258," I’m not a green thumb, but I’d like to try.
+African violet (Saintpaulia ionantha) and spider plant (Chlorophytum comosum). Both are easy to grow, and the spider plant is especially forgiving if you forget to water it now and then."
+35,0.49775207799393684,64,128.5780669323084," The Pythagorean theorem states that in any right triangle, the hypotenuse squared is equal to the sum of the squares of both sides. In other words, for a right triangle with legs a and b , and hypotenuse c : a ^{2} + b ^{2} = c ^{2}
+What"
+36,0.5269739041104913,64,121.44813908390621," A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+A prime number (or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. For example, 5 is"
+37,0.565329171018675,64,113.20838067612442," What is the difference between the sound of a nearby thunderstorm and that of a distant one?
+Thunderstorms are caused by strong updrafts in cumulonimbus clouds, which can reach heights of 20 km (12 miles) or more. The updrafts carry water droplets and ice crystals upward into colder"
+38,0.6074786339886487,64,105.35349956225112," What is the difference between a thought and an emotion? How can you tell if your thoughts are positive or negative?
+1. Focus on the present moment.
+2. Practice deep breathing exercises.
+3. Engage in physical activity, such as walking or yoga.
+A thought is something that goes through your mind, while an"
+39,0.5021871010540053,64,127.44254057038678," What is the difference between a hypothetical and categorical imperative?
+Immanuel Kant’s “Categorical Imperative” states that an action should be performed because it is good in itself, not because of any consequences. A hypothetical imperative is one where the action must be taken to achieve a goal or outcome. A categorical imperative is one"
+40,0.21019300108309835,22,104.66571144917643," Learn to say it in Japanese.
+""I would like a cup of tea."" = お茶をください。"
+41,0.5242417680565268,64,122.08107766243293," What are some of its advantages and disadvantages?
+Serverless computing is a cloud-based model where developers can focus on writing code without having to worry about managing servers or infrastructure. Instead, they rely on third-party providers that handle all aspects of server management, including provisioning, scaling, and maintenance.
+Advantages: Serverless computing"
+42,0.6417829860001802,64,99.72218241382613," 1. Honey bees are the only insect that produce food eaten by man. 2. Honey is the only food that includes all the substances necessary to sustain life, including enzymes, vitamins, minerals, and water; it also contains more than 180 different substances. 3. Beeswax is used in"
+43,0.4991143959341571,64,128.22711691217748, 1. Grilled Salmon with Lemon and Herbs. 2. Grilled Salmon with Mango Salsa. 3. Grilled Salmon with Tomato Relish. 4. Grilled Salmon with Avocado Salsa. 5. Grilled Salmon with Pineapple Salsa. 6. Grilled Salmon
+44,0.4785314010223374,64,133.74252946258076," The first sentence should be 10 words long, and the second sentence should be 20 words long.
+The following is an example of a two-sentence horror story:
+It was a dark and stormy night. As I walked down the deserted street, I heard a blood-curdling scream echo through the air."
+45,0.5059444030048326,64,126.49611226035977," What are the four stages?
+What is the difference between an insect and an arachnid? Give examples.
+What is the difference between a vertebrate and an invertebrate? Give examples.
+What is the difference between a mammal and a reptile? Give examples.
+What is the difference between a bird and a"
+46,0.5170284260530025,64,123.78429652036023," I’m looking for something that’s not too formal and has good audio quality.
+I recommend Coffee Break Spanish, which is an excellent resource for learning Spanish. The lessons are short and easy to follow, and the hosts speak clearly with good pronunciation. There are also plenty of exercises and quizzes to help you practice what you’ve"
+47,0.545146253076382,64,117.399687953157," Which is faster, which is cheaper?
+SSD: Faster, more expensive. HDD: Slower, cheaper.
+What are the advantages of using a solid state drive (SSD) over a hard disk drive (HDD)?
+SSDs have no moving parts, so they're much quieter and less prone to failure than"
+48,0.5898236469365656,64,108.50700939578144," The text should be ""Get Started"" and the size should be medium.
+
+Solution: Here is some sample code that will generate an HTML snippet for a red button with the text “Get Started” and a size of medium:
+
+```html
+<button class=""btn btn-red btn-medium"">Get Started</button>
+```
+"
+49,0.6001426699804142,64,106.64130914418843," Explain each feature in a few sentences.
+
+The three key features of the Rust language are:
+
+1. Memory Safety: Rust is designed to be memory safe, which means that it prevents common programming errors such as dangling pointers and buffer overflows. This is achieved through its ownership model, which ensures that data can only be accessed"
+50,0.47950591798871756,64,133.4707197534648," How would you explain it differently to a computer scientist?
+A: A virtual private network (VPN) is like a secret tunnel that lets you connect your device, such as a phone or laptop, to the internet through another computer somewhere else in the world. It’s like having a special door that only you can use to"
+51,0.5560606899671257,64,115.09535048014936, 2. What is the difference between a compound and an element? 3. Provide the chemical formula for water. 4. Provide the chemical formula for carbon dioxide. 5. Provide the chemical formula for methane. 6. Provide the chemical formula for ammonia. 7. Provide the chemical formula for hydrogen
+52,0.52805999701377,64,121.19834935788764," Explain the significance of each event.
+The first event is the Apollo 11 mission, which was the first manned lunar landing by NASA astronauts Neil Armstrong and Buzz Aldrin on July 20, 1969. The second event is the Stonewall Riots, which took place from June 28 to July 3"
+53,0.33358915499411523,31,92.9286804918669," Learn the Chinese word for Happy New Year.
+Chinese translation of ""Happy New Year""
+The Chinese character for Happy New Year is 新年快乐."
+54,0.539160763961263,64,118.70299969490769," I'll try to make it.
+I'm not sure if this is the right place for this, but here goes: I'd like to suggest a study playlist genre. It's called ""ambient"" and it's basically music that doesn't have lyrics or vocals. It's usually instrumental, and it's intended to be"
+55,0.5368064329959452,64,119.22360848548816," Describe the sound of a bird singing in five words. Describe the feeling of being hugged by someone you love in five words. Describe the taste of your favorite food in five words.
+The ability to describe things is an important skill for anyone, but it can be especially useful for writers and artists. Being able to put into"
+56,0.528218072024174,64,121.16207943197942," 10+ Catchy Blog Title Ideas to Attract Readers
+Productivity is the ability to work efficiently and effectively, which can be applied in various aspects of life such as work, school, or personal projects. Writing a blog about productivity can help readers improve their efficiency and effectiveness in achieving their goals.
+A catchy title"
+57,0.5095547450473532,64,125.59985089345491," (Hint: The light from the Sun is white, but it is scattered by air molecules as it travels through the atmosphere.)
+The sky appears blue because of scattering of sunlight by the particles in the atmosphere. When sunlight enters the atmosphere, some of its wavelengths are absorbed and others are scattered. Blue light has a shorter wavelength"
+58,0.49780422903131694,64,128.5645968185894," 1. Claude Monet 2. Pierre-Auguste Renoir 3. Edgar Degas
+What is the difference between a painting and a drawing? A painting uses color, while a drawing does not.
+What are the two main types of art? Painting and sculpture.
+What is the difference between a painting and"
+59,0.24862966197542846,25,100.55115629152364," The output should be the number of files in that directory.
+
+### Solution
+```
+ls | wc -l
+```"
+60,0.4946310369996354,64,129.38937351811828," The following movies are similar to Inception. If you liked Inception, give these films a try.
+The Matrix is a 1999 science fiction action film written and directed by the Wachowskis, starring Keanu Reeves, ...
+A young man finds out that he holds the key to restoring hope and"
+61,0.5763674279442057,64,111.04027899056679," Explain how each stage contributes to the overall process.
+The water cycle is a continuous process that involves the movement of water between Earth's surface, atmosphere, and oceans through various stages. Here are the main stages of the water cycle:
+Evaporation: Water from lakes, rivers, oceans, and other bodies of water evaporates"
+62,0.31917737203184515,30,93.99162543705268," Provide an antonym for ""resilient"".
+A. resilient
+B. flexible
+C. brittle
+D. durable
+Answer: D"
+63,0.6031289480160922,64,106.11329502674178," The restaurant is called ""Green Leaf"" and serves healthy, organic food.
+The Green Leaf Restaurant: Where Sustainability Meets Deliciousness
+At the heart of our philosophy lies a deep commitment to sustainability. We believe that by choosing to eat at Green Leaf, you are not only nourishing your body with wholesome, organic ingredients"
+64,0.5502872290089726,64,116.30289897016029," What are some of the risks involved?
+Yield farming is a popular practice in decentralized finance (DeFi) that involves providing liquidity to a protocol or platform in exchange for rewards, such as interest payments or tokens. The goal of yield farming is to generate passive income by staking or lending assets on various platforms.
+One"
+65,0.5470541110262275,64,116.99025509549939," The game should be fun, easy to learn and not too long.
+I recommend the game ""Catan"" (also known as ""The Settlers of Catan"") by Klaus Teuber. It is a strategy game for 3-4 players that can last anywhere from 1 hour to several hours depending on"
+66,0.5471669869730249,64,116.96612098996238," Convert 5000 m to kilometers. Convert 1000 cm to meters. Convert 2 yards to feet. Convert 5 ft to inches. Convert 1 inch to centimeters. Convert 10 mm to cm. Convert 3 in to mm.
+The kilometer (abbreviation km) is a unit of length"
+67,0.6131041519111022,64,104.38683183029522," What is its purpose?
+Velvet has a soft, smooth and fuzzy texture. It is used to make clothes because it feels very comfortable against the skin.
+What is the difference between a noun and an adjective? Give examples for each.
+A noun is a word that names a person, place or thing. An adjective is"
+68,0.5206322979647666,64,122.92744850864237," 1) It helps you to relax and de-stress. 2) It can help you to focus better. 3) It can improve your overall health.
+What are the top 10 benefits of meditation?
+The Top 10 Benefits Of Meditation
+How do I start meditating for beginners?
+Here’s a"
+69,0.5473535789642483,64,116.92624741964154," Write a program that reads in three numbers and prints the largest of them.
+
+Solution:
+#include <stdio.h>
+
+int main() {
+  int num1, num2, num3;
+  
+  printf(""Enter first number: "");
+  scanf(""%d"", &num1);
+  printf(""Enter second number: "");
+ "
+70,0.33413271605968475,36,107.74161963107339," A. Chickpeas and tahini
+B. Tahini and olive oil
+C. Olive oil and lemon juice
+D. Lemon juice and garlic
+Answer: A"
+71,0.518802029080689,64,123.3611212226892," Here is the translation and the German word for Cheers!:
+Cheers! [English] Translation: Prost!
+Cheers! in all languages
+Arabic: صحة
+Chinese: 干杯
+Czech: Na zdraví
+Danish: Skål
+Dutch: Proost
+Finnish: Kipp"
+72,0.4965732400305569,64,128.88330429578068," What is the Hero's Journey?
+The hero’s journey is a narrative structure that involves a protagonist who goes on an adventure, faces challenges and learns from them, and returns home transformed.
+What are the 12 stages of the Hero's Journey? What are the 12 Stages of the Hero's Journey?
+1."
+73,0.3211481700418517,36,112.0977896131512," A. The old man is young.
+B. The new car is used.
+C. The small house is big.
+D. The fast train is slow.
+Answer: B"
+74,0.5552031149854884,64,115.27312846879975," 1 decade ago. It is the perfect way to end your meal or enjoy as an afternoon snack. I have a friend who makes the most amazing chocolate chip cookies, and they go great with coffee! The best part about this recipe is that it only takes 5 minutes to make. 0 0. "
+75,0.5969965140102431,64,107.20330604627601," What are the benefits of using one?
+
+An API Gateway is a service that acts as an entry point for all incoming requests to your application. It sits between the client and the backend services, handling authentication, authorization, routing, and other tasks before forwarding the request to the appropriate service.
+
+The main benefit of using an API"
+76,0.512295023072511,64,124.92801436203167," The red and blue components are at their maximum, so they are represented by FF (255 in decimal). The green component is zero, so it is represented by 00 (0 in decimal).
+What color is pure magenta?
+Magenta is a deep reddish purple color that is the complementary color of green on the"
+77,0.5015571039402857,64,127.6026189185822," I'm looking for something that's easy to use, has good support and is stable.
+I've used Ubuntu before but it was a while ago so I don't remember much about it. I also tried Fedora once but it didn't work out well for me. I'm not sure if I should try them again or"
+78,0.5023503979900852,64,127.40111335845535," What is the difference between a Doppler weather radar and an S-band or X-band marine radar?
+A Doppler radar measures the speed of moving objects by measuring the change in frequency of the waves reflected back to it.
+An S-band or X-band marine radar uses radio waves with longer wavelengths than those used by a Dop"
+79,0.5772969069657847,64,110.86149817842893," Write it in the center of a blank sheet of paper.
+Draw a circle around the quote, then draw lines radiating out from the circle to the edges of the page. At each line’s end, write a word or phrase that describes how you feel when you learn something new.
+Write a short paragraph describing your feelings"
+80,0.5494095149915665,64,116.48869969240049," Which one is the most famous?
+The Colosseum, St Peter’s Basilica, The Pantheon and Trevi Fountain.
+The Colosseum is the most famous landmark in Rome.
+What are the two main types of volcanoes? What is the difference between them?
+Cinder cones and composite volcanoes"
+81,0.5210008679423481,64,122.84048633692868," The first line should be 5 syllables, the second and third lines should be 7 syllables each, and the fourth and fifth lines should be 5 syllables each.
+A curious cat was on the prowl,
+Looking for some fun to be found.
+He saw a mouse in the corner,
+And he"
+82,0.4758690589806065,50,105.07092036433008," Translate Thank you very much to English online and download now our free translation software to use at any time.
+Thank you very much - Muito obrigado
+Muito obrigado
+How to say ""Thank you very much"" in other languages?"
+83,0.5359650849131867,64,119.41076350219052," What is the main purpose of each?
+RAM (Random Access Memory) and ROM (Read-Only Memory) are two types of computer memory that store data in different ways.
+RAM is a volatile type of memory, which means it loses its contents when the power is turned off. It is used to temporarily store data while"
+84,0.5501827859552577,64,116.32497714169604," (10)
+Water is a precious resource and it is essential for our survival. However, due to various factors such as population growth, climate change, and industrialization, the demand for water has increased significantly over the years. As a result, there is an urgent need to conserve water to ensure its availability for future generations"
+85,0.512529638945125,64,124.87082723981214," The Fibonacci sequence is a series where a number is found by adding up the two numbers before it starts with 0 and 1. Let's see your code.
+
+Solution:
+Here is some sample python code that generates the first few terms of the Fibonacci sequence:
+
+    def fibonacci(n):
+        if n == 0 or"
+86,0.5050621769623831,64,126.7170715196254," Write a CSS rule to change the font size of an element. Write a CSS rule to change the color of an element. Write a CSS rule to change the background color of an element. Write a CSS rule to change the border style of an element.
+
+### Readability Information
+Lexile Measure: 1010L"
+87,0.5455818750197068,64,117.30594972145707," Name the author of ""The Great Gatsby"".
+What is the name of the book that describes the life of a young girl growing up in the South during the Civil War? What is the name of the book that describes the life of a young girl growing up in the South during the Civil War?
+Name the author of"
+88,0.5558257659431547,64,115.14399641297916," [closed]
+I'm trying to explain the concept of quantum entanglement to a layman. I've tried several different ways, but they all seem too complicated or just plain wrong.
+Can someone please summarize it in one sentence?
+$\begingroup$ This is not a real question. $\endgroup$ – "
+89,0.44030553300399333,51,115.82866027608483," I'm looking for something that's easy to carry around, and doesn't require refrigeration.
+I've been eating a lot of hummus lately. It's not the most portable food, but it's pretty good with crackers or pita chips."
+90,0.49930536502506584,64,128.17807394636569, The temperature T in degrees Fahrenheit (°F) is equal to the temperature T in degrees Celsius (°C) times 9/5 (1.8) plus 32: T(°F) = T(°C) × 1.8 + 32 . 0 °C = 32
+91,0.5073182439664379,64,126.15355501434318," What is it about sand that makes it so appealing to walk in? Sand is a granular material composed of finely divided rock and mineral particles. It is defined by size, being finer than gravel and coarser than silt. In the United States, sand is classified by grain size. Very fine sand measures between "
+92,0.52395233605057,64,122.14851542111064," a) Graphene is used as an electrode in batteries and supercapacitors because it has high electrical conductivity. b) It can be used to make flexible electronics, such as wearable devices or bendable displays. c) It can also be used for water filtration due to its ability to filter out impurities.
+What"
+93,0.5278224119683728,64,121.25290353118787," The app is called “Note It Down” and it allows you to take notes, save them in the cloud, and share them with others. The app has a clean and simple interface that makes taking notes easy and efficient.
+Here are some ideas for a catchy description:
+1. ""Take Notes Effortlessly: Note"
+94,0.548942766035907,64,116.5877464096388," Explain the difference between a compiler and an interpreter.
+A compiler is a program that translates source code written in one programming language (the source language) into an equivalent program in another programming language (the target language). The most common use of a compiler is to convert source code from a high-level programming language to a low-level"
+95,0.5021149079548195,64,127.46086400955605," Explain how the two words are pronounced differently.
+A homophone is a word that sounds like another word but has a different meaning and spelling. Here's an example of a homophone pair: ""to"" and ""two"". These two words sound exactly the same, but they have different meanings and spellings. The word"
+96,0.48884802509564906,64,130.92003386426205," I have a friend who is an amateur astronomer and he would love this book.
+This book is a great introduction to the night sky, with lots of information about constellations, planets, stars, galaxies, nebulae, etc. It also includes a section on how to use binoculars and telescopes"
+97,0.17672152200248092,14,79.22068484563788," See you tomorrow in Italian.
+See you tomorrow in other languages:"
+98,0.5203358141006902,64,122.99749174600417," Apology texts are an effective way to express regret and make amends when you’ve made a mistake, such as accidentally sending the wrong file to someone.
+Writing an apology text can be difficult, but it’s important to take responsibility for your actions and show that you’re sincere in wanting to make things right. In this"
+99,0.5025576470652595,64,127.34857458390101," What is the difference between a sprint and an iteration? How does Scrum differ from Kanban?
+The Agile Manifesto was written in 2001 by 17 software developers who were dissatisfied with traditional, “waterfall” methods of software development. The manifesto states that individuals and interactions are more important than processes and"
+100,0.5165094690164551,64,123.9086673897184," What is the principle of parsimony? Why do scientists use it?
+The principle of parsimony, also known as Occam’s Razor, states that when presented with two or more competing theories to explain a phenomenon, the simplest theory is usually correct.
+This principle is often used by scientists and researchers to determine which hypothesis should"

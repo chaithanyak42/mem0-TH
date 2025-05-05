@@ -1,0 +1,13 @@
+{
+  "model": "cosmos98a/mem0-merged-llama3.1-8b-16bit (vLLM, 16bit)",
+  "engine": "vLLM",
+  "precision": "16bit",
+  "timestamp": "2025-05-05T15:28:22.294367",
+  "prompts": 100,
+  "avg_latency_s": 0.4921901344996877,
+  "median_latency_s": 0.48943503096234053,
+  "p95_latency_s": 0.5126644553150982,
+  "overall_toks_per_s": 130.03105002308942,
+  "total_gen_tokens": 6400.0,
+  "total_time_s": 49.21901344996877
+}
